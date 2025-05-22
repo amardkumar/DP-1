@@ -1,3 +1,7 @@
+//Time Complexity:  O(n) 
+//where n is the number of houses
+//Space Complexity : 0(1) 
+
 class Solution {
     public int rob(int[] nums) {
         if(nums.length == 0) return 0;
