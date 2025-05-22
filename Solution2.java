@@ -2,7 +2,7 @@
 //where n is the number of houses
 //Space Complexity : 0(1) 
 
-class Solution {
+class Solution2 {
     public int rob(int[] nums) {
         if(nums.length == 0) return 0;
 
